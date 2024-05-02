@@ -1,0 +1,27 @@
+.container{
+  display: grid;
+  grid-template-columns: 250px auto;
+  grid-gap: 0px;
+}
+
+.h2{
+  color: rgb(0, 0, 0);
+}
+
+.p1{
+  color: blue;
+  background-color: transparent;
+}
+
+.p1:hover{
+  background-color: blue;
+  color: aliceblue;
+}
+
+.p2{
+  color: rgb(157, 23, 23);
+  background-color: rgb(217, 149, 149);
+  padding: 10px;
+  border-radius: 4px;
+}
+
