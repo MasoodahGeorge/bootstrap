@@ -9,13 +9,16 @@
 }
 
 .p1{
-  color: blue;
+  color: rgb(81, 81, 251);
   background-color: transparent;
+  padding: 5px;
 }
 
 .p1:hover{
-  background-color: blue;
+  background-color: rgb(81, 81, 251);
   color: aliceblue;
+  border-radius: 5px;
+  padding: 5px;
 }
 
 .p2{
@@ -25,3 +28,12 @@
   border-radius: 4px;
 }
 
+.submit{
+  background-color: rgb(81, 81, 251);
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+.search{
+  border-radius: 5px;
+}
